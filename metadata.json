@@ -1,0 +1,6 @@
+{
+  "name": "Better Boosteroid",
+  "description": "Cliente otimizado de jogos na nuvem Boosteroid para Fire TV Stick Lite com suporte a controle, mouse virtual e ajustes de desempenho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
